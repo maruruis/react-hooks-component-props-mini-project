@@ -10,7 +10,7 @@ function App() {
   const about = (
     <p>
       Personal Blog by Ian Kimani <br />
-      here i share my experience in Moringa School
+      i can explain with words and code
     </p>
   );
   const logo = "https://via.placeholder.com/215";
